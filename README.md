@@ -10,11 +10,14 @@ I'm a Python developer interested in building practical software applications an
 - 📚 Always learning, building, and improving my skills
 
 ### 🛠️ Technologies & Interests
-**Languages:** Python, JavaScript  
-**Development:** Software Development, Web Development, GUI Desktop Applications 
+
+**Languages:** Python, JavaScript
+
+**Development:** Software Development, Web Development, GUI Desktop Applications
+
 **Interests:** Cybersecurity, Secure Coding, Problem Solving
 
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/vijay-kamble-210083235/) · [Email](mailto:vijayskamble001@gmail.com)
 
-**Open to entry-level software development opportunities!**
+**Open to entry-level Software Development opportunities!**
